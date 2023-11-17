@@ -7,7 +7,7 @@ body {
 }
 
 article {
-    margin-top: 10em;
+    margin-top: 5em;
     display: flex;
     align-self: center;
     flex-direction: column;
